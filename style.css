@@ -1233,7 +1233,7 @@ section {
 
     /* Финальная секция */
     .goodbye-title {
-        font-size: 4rem;
+        font-size: 5rem;
         /* Уменьшаем "До скорой встречи" */
     }
 }
@@ -1557,7 +1557,7 @@ section {
 
     /* Финальная секция */
     .goodbye-title {
-        font-size: 3rem;
+        font-size: 5rem;
         /* Уменьшаем "До скорой встречи" */
     }
 }
