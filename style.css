@@ -1055,6 +1055,8 @@ section {
     }
 
     .hero {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+            url('images/hero-bg__.jpg') center/cover no-repeat;
         /* Изменяем позицию фона - смещаем влево на 30% */
         background-position-x: 60%;
         min-height: 10vh;
@@ -1261,6 +1263,8 @@ section {
     }
 
     .hero {
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+            url('images/hero-bg__.jpg') center/cover no-repeat;
         /* Изменяем позицию фона - смещаем влево на 60% */
         background-position: left 60% center;
         min-height: 10vh;
